@@ -20,7 +20,7 @@ To identify the root causes of uneven faculty workloads and propose improvements
 
 **3.**	Developed a Fishbone diagram to visualize the causes of workload issues (courses, student flow, instructor availability, etc.)
 
-**Fig. Fishbone diagram **
+**Fig.Fishbone diagram**
 
 ![image](https://github.com/user-attachments/assets/fca323ad-f633-4cbd-ba81-1b5ba4ec75db)
  
